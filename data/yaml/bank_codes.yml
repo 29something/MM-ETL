@@ -1,0 +1,165 @@
+# Bank IFSC to Stock Exchange Bank Code Mapping
+---
+entries:
+  - ifscPrefix: HDFC       # HDFC BANK
+    seBankCode: HDF
+    seMode: NODAL
+  - ifscPrefix: UTIB       # AXIS BANK
+    seBankCode: UTI
+    seMode: DIRECT
+  - ifscPrefix: ICIC       # ICICI Bank - Retail Net Banking
+    seBankCode: ICI
+    seMode: DIRECT
+  - ifscPrefix: IBKL       # IDBI Bank - Retail Net Banking
+    seBankCode: IDB
+    seMode: DIRECT
+  - ifscPrefix: KKBK       # Kotak Bank
+    seBankCode: 162
+    seMode: DIRECT
+  - ifscPrefix: SBIN       # State Bank of India
+    seBankCode: SBI
+    seMode: DIRECT
+  - ifscPrefix: ALLA       # Allahabad Bank - Retail Net Banking
+    seBankCode: ALB
+    seMode: NODAL
+  - ifscPrefix: ANDB       # Andhra Bank
+    seBankCode: ADB
+    seMode: NODAL
+  - ifscPrefix: BBKM       # Bank of Bahrain and Kuwait
+    seBankCode: BBK
+    seMode: NODAL
+  - ifscPrefix: BARB       # Bank of Baroda - Retail Net Banking
+    seBankCode: BBR
+    seMode: NODAL
+  - ifscPrefix: MAHB       # Bank of Maharashtra
+    seBankCode: BOM
+    seMode: NODAL
+  - ifscPrefix: BMBL       # Bharatiya Mahila Bank
+    seBankCode: BMN
+    seMode: NODAL
+  - ifscPrefix:  CNRB      # Canara Bank
+    seBankCode: CNB
+    seMode: NODAL
+  - ifscPrefix: CSBK       # Catholic Syrian Bank
+    seBankCode: CSB
+    seMode: NODAL
+  - ifscPrefix: CBIN       # Central Bank of India
+    seBankCode: CBI
+    seMode: NODAL
+  - ifscPrefix: CORP       # Corporation Bank
+    seBankCode: CRP
+    seMode: NODAL
+  - ifscPrefix: COSB       # Cosmos Bank
+    seBankCode: COB
+    seMode: NODAL
+  - ifscPrefix: BKDN       # DENA Bank
+    seBankCode: DEN
+    seMode: NODAL
+  - ifscPrefix: DEUT       # Deutsche Bank
+    seBankCode: DBK
+    seMode: NODAL
+  - ifscPrefix: DCBL       # Development Credit Bank - Retail
+    seBankCode: DCB
+    seMode: NODAL
+  - ifscPrefix: DLXB       # Dhanlakshmi Bank
+    seBankCode: DLB
+    seMode: NODAL
+  - ifscPrefix: FDRL       # Federal Bank
+    seBankCode: FBK
+    seMode: NODAL
+  - ifscPrefix: IDIB       # Indian Bank
+    seBankCode: INB
+    seMode: NODAL
+  - ifscPrefix: IOBA       # Indian Overseas Bank
+    seBankCode: IOB
+    seMode: NODAL
+  - ifscPrefix: INDB       # IndusInd Bank
+    seBankCode: IDS
+    seMode: NODAL
+  - ifscPrefix: VYSA       # ING Vysya Bank - Retail Net Banking
+    seBankCode: ING
+    seMode: NODAL
+  - ifscPrefix: JAKA       # Jammu & Kashmir Bank
+    seBankCode: JKB
+    seMode: NODAL
+  - ifscPrefix: JSBP       # Janata Sahakari Bank
+    seBankCode: JSB
+    seMode: NODAL
+  - ifscPrefix: KARB       # Karnataka Bank Ltd
+    seBankCode: KBL
+    seMode: NODAL
+  - ifscPrefix: KVBL       # Karur Vysya Bank
+    seBankCode: KVB
+    seMode: NODAL
+  - ifscPrefix: LAVB       # Laxmi Vilas Bank - Retail Net Banking
+    seBankCode: LVR
+    seMode: NODAL
+  - ifscPrefix: NKGS       # NKGSB BANK
+    seBankCode: NKB
+    seMode: NODAL
+  - ifscPrefix: ORBC       # Oriental Bank of Commerce
+    seBankCode: OBC
+    seMode: NODAL
+  - ifscPrefix: PMCB       # Punjab & Maharastra Coop Bank
+    seBankCode: PMC
+    seMode: NODAL
+  - ifscPrefix: PSIB       # Punjab & Sind Bank
+    seBankCode: PSB
+    seMode: NODAL
+  - ifscPrefix: PUNB       # Punjab National Bank - Retail Net Banking
+    seBankCode: PUB
+    seMode: NODAL
+  - ifscPrefix: RATN       # Ratnakar Bank - Retail Net Banking
+    seBankCode: RTN
+    seMode: NODAL
+  - ifscPrefix: ABNA       # RBS (The Royal Bank of Scotland)
+    seBankCode: RBS
+    seMode: NODAL
+  - ifscPrefix: SRBC       # Saraswat Bank
+    seBankCode: SWB
+    seMode: NODAL
+  - ifscPrefix: SVCB       # Shamrao Vitthal Co-operative Bank - Retail Net Banking
+    seBankCode: SVC
+    seMode: NODAL
+  - ifscPrefix: SIBL       # South Indian Bank
+    seBankCode: SIB
+    seMode: NODAL
+  - ifscPrefix: SCBL       # Standard Chartered Bank
+    seBankCode: SCB
+    seMode: NODAL
+  - ifscPrefix: SYNB       # Syndicate Bank
+    seBankCode: SYD
+    seMode: NODAL
+  - ifscPrefix: TMBL       # Tamilnad Mercantile Bank Ltd
+    seBankCode: TMB
+    seMode: NODAL
+  - ifscPrefix: TNSC       # Tamilnadu State Coop Bank
+    seBankCode: TNC
+    seMode: NODAL
+  - ifscPrefix: TJSB       # TJSB Bank
+    seBankCode: TJB
+    seMode: NODAL
+  - ifscPrefix: UCBA        # UCO Bank
+    seBankCode: UCO
+    seMode: NODAL
+  - ifscPrefix: UBIN       # Union Bank of India
+    seBankCode: UBI
+    seMode: NODAL
+  - ifscPrefix: UTBI       # United Bank of India
+    seBankCode: UNI
+    seMode: NODAL
+  - ifscPrefix: VIJB       # Vijaya Bank
+    seBankCode: VJB
+    seMode: NODAL
+  - ifscPrefix: YESB       # Yes Bank Ltd
+    seBankCode: YBK
+    seMode: DIRECT
+  - ifscPrefix: SBMY       # STATE BANK OF MYSORE
+    seBankCode: SBM
+    seMode: NODAL
+  - ifscPrefix: CIUB       # CITY UNION BANK LIMITED
+    seBankCode: CIU
+    seMode: DIRECT
+  - ifscPrefix: RATN       # Ratnakar Bank - Retail Net Banking
+    seBankCode: RBL
+    seMode: NODAL

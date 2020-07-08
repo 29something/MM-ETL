@@ -1,0 +1,10 @@
+{
+  "amfiNavSvcUrl": "https://www.amfiindia.com/spages/NAVAll.txt?t=",
+  "mmMasterSvcUrl": "http://127.0.0.1:15802/moneymitra-service/master/v1",
+  "mmThirdPartySvcUrl": "https://api.mymoneymitra.net/moneymitra-service/third-party/v1",
+  "mmApi": {
+    "url": "https://api.mymoneymitra.net/moneymitra-service/v1",
+    "username": "moneymitra_user",
+    "password": "m0nEyM1trA@uSEr"
+  }
+}
